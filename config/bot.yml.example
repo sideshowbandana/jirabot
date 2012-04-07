@@ -1,0 +1,11 @@
+jira:
+  username: 'jirauser'
+  password: 'topsecret'
+  url: 'https://jira.example.com'
+  projects:
+    - 'DEV'
+    - 'CORP'
+gerrit:
+  ssh_host: 'gerrit.example.com'
+  url: 'https://gerrit.example.com'
+
